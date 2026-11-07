@@ -1,0 +1,13 @@
+## Authors
+CELINE
+AMBE
+PHARELLE
+LEONEL
+MARVELOUS
+VERON
+JOEL
+NICODEM
+
+## Technologies 
+-HTML5
+-CSS
