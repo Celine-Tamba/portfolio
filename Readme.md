@@ -11,3 +11,4 @@ NICODEt
 ## Technologies 
 -HTML5
 -CSS
+## contributions
